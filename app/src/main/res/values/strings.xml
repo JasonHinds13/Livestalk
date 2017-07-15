@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Livestalk</string>
+    <string name="access_token">pk.eyJ1IjoiamFzb25oaW5kczEzIiwiYSI6ImNqNTUxdDV3ZjA2azkycHQ2b3pxNzgweWUifQ.1Ila0AV6JvW9kI2Ph1DCfA</string>
 </resources>
